@@ -1,5 +1,5 @@
 # LeroleroGenerator
-
+[ ![Codeship Status for adell/lerolero_generator](https://codeship.com/projects/6370c370-4c02-0132-7740-268f2fab66e4/status)](https://codeship.com/projects/46925)
 [![Gem Version](https://badge.fury.io/rb/lerolero_generator.svg)](http://badge.fury.io/rb/lerolero_generator)
 [![Build Status](https://travis-ci.org/jacksonpires/lerolero_generator.svg?branch=master)](https://travis-ci.org/jacksonpires/lerolero_generator)
 [![Code Climate](https://codeclimate.com/github/jacksonpires/lerolero_generator.png)](https://codeclimate.com/github/jacksonpires/lerolero_generator)
